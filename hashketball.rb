@@ -107,7 +107,6 @@ def game_hash
     }
   }
   
-  return basket
 end
 
 def num_points_scored(name)
